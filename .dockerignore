@@ -1,0 +1,12 @@
+.git
+.github
+.env
+.env.example
+.editorconfig
+.gitattributes
+npm-debug.log
+/node_modules
+/vendor
+/public/storage
+Dockerfile
+docker
